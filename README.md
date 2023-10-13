@@ -2,7 +2,7 @@
 
 Just a bunch of personal changes that I think helps boost FPS.
 
-Replace the file in ``...MT - The Dream\Client\S1Game\Config`` and set it to ``read-only.``
+Replace the file in ``...MT - The Dream\Client\S1Game\Config``, you don't have to set it to ``read-only.``
 
 In-game settings guide: https://docs.google.com/document/d/14XwofIk2sYu7Ga_p8Kyq-0igzTnuFU-B_aqno2lfu7E/ 
 
