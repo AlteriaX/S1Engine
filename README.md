@@ -1,6 +1,6 @@
 # S1Engine
 
-Just a bunch of personal changes that I think helps boost FPS.
+Just a bunch of personal changes that I think helps boost FPS, loading speed should be faster too.
 
 Replace the file in ``...MT - The Dream\Client\S1Game\Config``, you don't have to set it to ``read-only.``
 
